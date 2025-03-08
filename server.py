@@ -7,7 +7,7 @@ import struct
 import datetime
 import sys
 
-HOST = "0.0.0.0"
+HOST = "https://python-hello-world-sepia-delta.vercel.app/api"
 PORT = 5566
 
 
